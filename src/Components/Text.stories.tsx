@@ -5,7 +5,7 @@ export default {
     title: 'Components/Text',
     component: Text,
     args: {
-        children: 'Isso vai melhorar para mim.',
+        children: 'Text size.',
         size: 'md',
     },
     argTypes: {
@@ -36,7 +36,7 @@ export const CustomComponent: StoryObj<TextProps> = {
     args: {
         asChild : true,
         children : (
-            <p>Test with P tag</p>
+            <p>Componente Customizáve</p>
         )
     },
     argTypes:{
