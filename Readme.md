@@ -21,7 +21,13 @@
 <br/>
 <br/>
 
-<p style="font-size:24px; text-align: center;">👨🏻‍💻Tecnologias exploradas</p>
+<p align="center">
+    <a style="font-size:24px" href="#" target="blank">
+    👨🏻‍💻Tecnologias exploradas
+    </a>
+</p>
+
+<br/>
 
 <p align="center">
     <a style="font-size:24px" href="https://www.radix-ui.com/" target="blank">
@@ -39,8 +45,6 @@
 </p>
 
 
-<br/>
-<br/>
 
 <p align="center">
     <a href="#" target="blank">
