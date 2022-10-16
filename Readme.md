@@ -19,7 +19,7 @@
 - 🔹[Storybook](https://storybook.js.org/docs/react/get-started/introduction)
 
 <p align="center">
-<a href="https://www.instagram.com/" target="blank">
+<a href="#" target="blank">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </a>
 <a href="#" target="blank">
