@@ -1,12 +1,12 @@
-<img src="capa"/>
+<img src="https://github.com/jacksonMarcelinoFreitas/Design_System_Ignite_Lab/blob/master/assets/Template%20Readme.png"/>
 
 #
 
-<img width=1080 src="img projeto"/>
+<img width=1080 src="https://github.com/jacksonMarcelinoFreitas/Design_System_Ignite_Lab/blob/master/assets/screen-gif.gif"/>
 
 #
 
-<img width=1080 src="img projeto"/>
+<img width=1080 src="https://github.com/jacksonMarcelinoFreitas/Design_System_Ignite_Lab/blob/master/assets/figma-gif.gif"/>
 
 #
 
