@@ -14,7 +14,7 @@
 
 👨🏻‍💻Tecnologias exploradas:
 - 🔹[Radix](https://www.radix-ui.com/)
-- 🔹[Tailwind](https://www.radix-ui.com/)
+- 🔹[Tailwind](https://tailwindui.com/components?ref=sidebar)
 - 🔹[Vitejs](https://vitejs.dev/guide/)
 - 🔹[Storybook](https://storybook.js.org/docs/react/get-started/introduction)
 
